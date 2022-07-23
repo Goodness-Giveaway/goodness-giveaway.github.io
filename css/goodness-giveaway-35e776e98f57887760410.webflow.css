@@ -2088,6 +2088,7 @@ strong {
 
 .nav-logo {
   width: 15vw;
+  max-width: 90%;
   margin-left: 60px;
 }
 
@@ -2481,6 +2482,10 @@ strong {
   background-color: #fff;
 }
 
+.div-block-6 {
+  height: 100px;
+}
+
 @media screen and (min-width: 1280px) {
   .feature-1-content-wrapper {
     width: 52%;
@@ -2528,7 +2533,7 @@ strong {
   }
 
   .footer {
-    background-color: #231656;
+    background-color: #f25d46;
   }
 
   .navbar {
@@ -2542,6 +2547,14 @@ strong {
 
   .section-subtext {
     font-size: 22px;
+  }
+
+  .nav-logo {
+    max-width: 80%;
+  }
+
+  .div-block-6 {
+    height: 100px;
   }
 }
 
@@ -2647,7 +2660,7 @@ strong {
   }
 
   .hero-text-wrapper {
-    margin-top: -100px;
+    margin-top: -145px;
   }
 
   .text-block._24-px {
@@ -2899,7 +2912,7 @@ strong {
   }
 
   .nav-button.extra-padding {
-    margin-top: 50px;
+    margin-top: 42px;
   }
 
   .nav-menu {
@@ -3137,7 +3150,7 @@ strong {
   }
 
   .heading-6 {
-    margin-top: -180px;
+    margin-top: -220px;
   }
 
   .text-block-2 {
@@ -3259,7 +3272,7 @@ strong {
 
   .hero-text-wrapper {
     width: 80%;
-    margin-top: -110px;
+    margin-top: -163px;
     margin-bottom: 40px;
   }
 
@@ -3452,7 +3465,7 @@ strong {
   }
 
   .nav-button.extra-padding {
-    margin-top: 30px;
+    margin-top: 0px;
   }
 
   .wrapper-instruction {
@@ -3674,7 +3687,7 @@ strong {
 
   .hero-text-wrapper {
     width: 100%;
-    margin-top: -110px;
+    margin-top: -155px;
   }
 
   .store-links-wrapper {
@@ -4023,7 +4036,7 @@ strong {
   }
 
   .heading-6 {
-    margin-top: -150px;
+    margin-top: -200px;
   }
 
   .download-preview-image {
